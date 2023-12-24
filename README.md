@@ -2,8 +2,8 @@
 Put the Cluster name and default namespcae will be same as Cluster name
 ![image](https://github.com/iam-harendra/aws-ecs-project/assets/96298529/ce0c0f01-588f-4e14-ab09-ce0bc5f2ba48)
 In Infrastructure Section, we have three option
-AWS farget which is serverless
-AWS EC2 instances
+AWS farget which is serverless,
+AWS EC2 instances,
 External instance using ECS anywhere
 ![image](https://github.com/iam-harendra/aws-ecs-project/assets/96298529/7660daf2-66db-4242-a8ea-535adfa51b27)
 if we select aws EC2 instances, give the group name
